@@ -1,0 +1,5 @@
+# Ignore virtual environment directory
+venv/
+
+# Ignore specific PDF file
+Google\ Data\ Analytics.pdf
